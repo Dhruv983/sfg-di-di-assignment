@@ -1,4 +1,4 @@
-package guru.springframework.sfgdi.services;
+package com.demo.pets;
 
 import org.springframework.context.annotation.Profile;
 
